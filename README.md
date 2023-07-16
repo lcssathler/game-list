@@ -25,7 +25,7 @@ Develop a Rest API that has five different endpoints: all games, search for game
 * Docker Compose
 * Local homologation
 
-## 👀 Obs
+## 👀 Notes
 * The seeding in the database was done through a SQL file
 * The database has a list of games organized according to their genre
 * The H2 database was used for tests
